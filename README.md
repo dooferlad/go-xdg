@@ -1,3 +1,5 @@
+*This is a git repository containing https://launchpad.net/go-xdg because go get complains about http access to bzr repositories.*
+
 Go, XDG, go!
 ===========
 
